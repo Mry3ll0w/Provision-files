@@ -8,4 +8,4 @@ echo "Se instalaran los siguientes paquetes (Usando ubuntu no es necesario meter
 echo "              "
 echo "binutils g++ cowsay neofetch clang valgrind language-pack-es"
 
-apt install -y binutils g++ cowsay neofetch clang valgrind language-pack-es
+apt install -y binutils g++ cowsay neofetch clang valgrind language-pack-es make
